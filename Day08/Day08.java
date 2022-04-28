@@ -82,6 +82,7 @@ public class Day08 {
     }
 
     public static void main(String[] args) {
+        System.out.println(part1());
         part2();
     }
 }
